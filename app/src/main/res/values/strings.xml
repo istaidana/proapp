@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GuessMovie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="title_activity_main_activity3">MainActivity3</string>
+    <string name="title_activity_main_activity4">MainActivity4</string>
+    <string name="title_activity_videos">Videos</string>
+    <string name="video1">R.raw.bal</string>
+    <string name="title_activity_results">Results</string>
+    <string name="title_activity_result">Result</string>
+
+    <string-array name="mults">
+        <item>Балто</item>
+        <item>Кто подставил кролика Роджера</item>
+        <item>Аладдин</item>
+        <item>Гадкий я</item>
+        <item>101 Далматинец</item>
+        <item>Алиса В стране чудес</item>
+        <item>Бэмби</item>
+        <item>Валли</item>
+        <item>Вверх</item>
+        <item>В поисках немо</item>
+        <item>Геркулес</item>
+        <item>Город Героев</item>
+        <item>Губка Боб</item>
+        <item>Земля до начало времен</item>
+        <item>Золушка</item>
+        <item>История игрушек Большой побег</item>
+        <item>Как приручит дракона</item>
+        <item>Как приручит дракона  2</item>
+        <item>Король Лев</item>
+        <item>Король Лев</item>
+        <item>Корпорация Монстров</item>
+        <item>Кошмар перед Рождеством</item>
+        <item>Красавица и чудовище</item>
+        <item>Кунг-Фу Панда</item>
+        <item>Леди и Бродяга</item>
+        <item>Ледниковый Период</item>
+        <item>Лис и Пес</item>
+        <item>Мадагаскар</item>
+        <item>Мегамозг</item>
+        <item>Монстры на каникулах</item>
+        <item>Мулан</item>
+        <item>Мэри и Макс</item>
+        <item>Паранорман или Как приручить зомби</item>
+        <item>Песнь моря</item>
+        <item>Питер Пэн</item>
+        <item>Покахонтас</item>
+        <item>Ральф</item>
+        <item>Рапунцель Запутанная история</item>
+        <item>Рататуй</item>
+        <item>Рождественская история</item>
+        <item>Русалочка</item>
+        <item>Семейка Крудс</item>
+        <item>Спирит Душа Прерий</item>
+        <item>Спящая Красавица</item>
+        <item>Стальной Гигант</item>
+        <item>Труп Невесты</item>
+        <item>Университет Монстров</item>
+        <item>Холодное сердце</item>
+        <item>Хранители Снов</item>
+        <item>Шрек</item>
+    </string-array>
+    <string-array name="zarubej">
+        <item>8 миля</item>
+        <item>Август Раш</item>
+        <item>Белый плен</item>
+        <item>Большой Стэн</item>
+        <item>Брюс Всемогущий</item>
+        <item>В погоне за счастьем</item>
+        <item>Ван хельсинг</item>
+        <item>Воин</item>
+        <item>Время</item>
+        <item>Гран Торино</item>
+        <item>Дежа вю</item>
+        <item>День сурка</item>
+        <item>Дневник памяти</item>
+        <item>Достучаться до небес</item>
+        <item>Загадочная история Бенджамина Баттона</item>
+        <item>Законопослушный гражданин</item>
+        <item>Зеленая миля</item>
+        <item>Игра по чужим правилам</item>
+        <item>Иллюзия обмана</item>
+        <item>Ип Ман</item>
+        <item>Исходный код</item>
+        <item>Леон</item>
+        <item>Майор Пэйн</item>
+        <item>Малышка на миллион</item>
+        <item>Мистер и миссис Смит</item>
+        <item>Неприкасаемые</item>
+        <item>Никогда не сдавайся</item>
+        <item>Оружейный барон</item>
+        <item>Папе снова 17</item>
+        <item>Перл Харбор</item>
+        <item>Побег из Шоушенка</item>
+        <item>Поезд на Юму</item>
+        <item>Пока не сыграл в ящик</item>
+        <item>Поллианна</item>
+        <item>Послезавтра</item>
+        <item>Пятый элемент</item>
+        <item>Семь жизней</item>
+        <item>Спасатель</item>
+        <item>Судья</item>
+        <item>Тёмный рыцарь</item>
+        <item>Тренер Картер</item>
+        <item>Форрест Гамп</item>
+        <item>Хатико Самый верный друг</item>
+        <item>Хорошие дети не плачут</item>
+        <item>Храброе сердце</item>
+        <item>Хулиганы</item>
+        <item>Хэнкок</item>
+        <item>Шерлок Холмс</item>
+        <item>Шестое чувство</item>
+        <item>Я, робот</item>
+    </string-array>
+    <string-array name="serials">
+        <item>Агенты ЩИТ</item>
+        <item>Анатомия страсти</item>
+        <item>Белый воротничок</item>
+        <item>Блудливая Калифорния</item>
+        <item>Бригада</item>
+        <item>Викинги</item>
+        <item>Готэм</item>
+        <item>Гримм</item>
+        <item>Гудини</item>
+        <item>Декстер</item>
+        <item>Дневники вампира</item>
+        <item>Доктор Хаус</item>
+        <item>Друзья</item>
+        <item>Игра престолов</item>
+        <item>Интерны</item>
+        <item>Как я встретил вашу маму</item>
+        <item>Касл</item>
+        <item>Клиника</item>
+        <item>Континуум</item>
+        <item>Кости</item>
+        <item>Менталист</item>
+        <item>Милые обманщицы</item>
+        <item>Обмани меня</item>
+        <item>Однажды в сказке</item>
+        <item>Остаться в живых</item>
+        <item>Острые козырьки</item>
+        <item>Отбросы</item>
+        <item>Отчаянные домохозяйки</item>
+        <item>Побег из тюрьмы</item>
+        <item>Под куполом</item>
+        <item>Реальные пацаны</item>
+        <item>Сверхъестественное</item>
+        <item>Симпсоны</item>
+        <item>Сотня</item>
+        <item>Спартак Война проклятых</item>
+        <item>Спираль</item>
+        <item>Сплетница</item>
+        <item>Стрела</item>
+        <item>Тайны Смолвиля</item>
+        <item>Теория большого взрыва</item>
+        <item>Тюдоры</item>
+        <item>Уилфред</item>
+        <item>Универ. Новая общага</item>
+        <item>Флэш</item>
+        <item>Форс-мажоры</item>
+        <item>Хейвен</item>
+        <item>Черный список</item>
+        <item>Шерлок</item>
+        <item>Южный Парк</item>
+        <item>Я-зомби</item>
+    </string-array>
+    <string-array name="kazakh">
+        <item>999</item>
+        <item>Амангельды</item>
+        <item>Ангел в тюбетейке</item>
+        <item>Аңшы бала</item>
+        <item>Байконур</item>
+        <item>Баксы</item>
+        <item>Биржан Сал</item>
+        <item>Войско мын бала</item>
+        <item>Вузеры</item>
+        <item>Десант</item>
+        <item>Заблудившийся</item>
+        <item>Игла</item>
+        <item>Кайрат- чемпион. Девственик №1</item>
+        <item>Кек</item>
+        <item>Коктейль для звезды</item>
+        <item>Кочевник</item>
+        <item>Кто вы, госпподин Ка</item>
+        <item>Кыз Жибек</item>
+        <item>Лавэ</item>
+        <item>Ликвидатор</item>
+        <item>Лютый</item>
+        <item>Меня зовут Кожа</item>
+        <item>Молоко Сметана Творог</item>
+        <item>Монгол</item>
+        <item>Мустафа Шокай</item>
+        <item>Небо моего детства</item>
+        <item>Обратная сторона</item>
+        <item>Ограбление по Шымкентский</item>
+        <item>Однажды в багажнике</item>
+        <item>Окиниш</item>
+        <item>Он и Она</item>
+        <item>Петля</item>
+        <item>Побег из аула</item>
+        <item>Подарок Сталину</item>
+        <item>Прощай Гульсары!</item>
+        <item>Прыжок Афалины</item>
+        <item>Рывок</item>
+        <item>Рэкетир</item>
+        <item>Секер</item>
+        <item>Сироты(Жетімдер)</item>
+        <item>Сказ о розовом зайце</item>
+        <item>Станция любви</item>
+        <item>Тюльпан</item>
+        <item>Улжан</item>
+        <item>Фара</item>
+        <item>Ход конём</item>
+        <item>Шал</item>
+        <item>Шиза</item>
+        <item>Шуга</item>
+        <item>Шу-Чу</item>
+    </string-array>
+
+    <string name="title_activity_picture">Picture</string>
+    <string name="title_activity_my_widget">MyWidget</string>
+    <string name="title_activity_mainwidget">Mainwidget</string>
+
+</resources>
